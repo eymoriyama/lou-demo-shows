@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><title>Lou demo shows</title></head>
+  <body>
+    <outline type="rss" text="Dark County with Jenna Cole" title="Dark County with Jenna Cole" xmlUrl="https://eymoriyama.github.io/lou-demo-shows/feeds/dark-county.xml?token=fictional-demo-show"/>
+    <outline type="rss" text="The Morning Brief" title="The Morning Brief" xmlUrl="https://eymoriyama.github.io/lou-demo-shows/feeds/the-morning-brief.xml?token=fictional-demo-show"/>
+    <outline type="rss" text="The Daniel Reyes Show" title="The Daniel Reyes Show" xmlUrl="https://eymoriyama.github.io/lou-demo-shows/feeds/the-daniel-reyes-show.xml?token=fictional-demo-show"/>
+    <outline type="rss" text="Strange Neighbors" title="Strange Neighbors" xmlUrl="https://eymoriyama.github.io/lou-demo-shows/feeds/strange-neighbors.xml?token=fictional-demo-show"/>
+    <outline type="rss" text="Off the Record" title="Off the Record" xmlUrl="https://eymoriyama.github.io/lou-demo-shows/feeds/off-the-record.xml?token=fictional-demo-show"/>
+  </body>
+</opml>
