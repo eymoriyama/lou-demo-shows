@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Second String</title>
+    <link>https://eymoriyama.github.io/lou-demo-shows/</link>
+    <atom:link href="https://eymoriyama.github.io/lou-demo-shows/feeds/second-string.xml?token=fictional-demo-show" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>Sports talk from the guys who never made the team. Hot takes, bad picks, no apologies. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+    <itunes:author>Second String Sports</itunes:author>
+    <itunes:summary>Sports talk from the guys who never made the team. Hot takes, bad picks, no apologies. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</itunes:summary>
+    <itunes:image href="https://eymoriyama.github.io/lou-demo-shows/covers/second-string.jpg"/>
+    <itunes:category text="Sports"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Week 8 Overreactions</title>
+      <description>Is it too early to panic? Yes. We're panicking anyway. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/second-string/week-8-overreactions</guid>
+      <pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/second-string/week-8-overreactions.mp3" length="16080474" type="audio/mpeg"/>
+      <itunes:duration>4020</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Worst Trade Deadline Ever</title>
+      <description>Ranking every deadline move from bad to unforgivable. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/second-string/the-worst-trade-deadline-ever</guid>
+      <pubDate>Sat, 24 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/second-string/the-worst-trade-deadline-ever.mp3" length="17280435" type="audio/mpeg"/>
+      <itunes:duration>4320</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Draft Picks We'd Like Back</title>
+      <description>Our own fantasy drafts, revisited with great shame. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/second-string/draft-picks-wed-like-back</guid>
+      <pubDate>Wed, 21 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/second-string/draft-picks-wed-like-back.mp3" length="14160474" type="audio/mpeg"/>
+      <itunes:duration>3540</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

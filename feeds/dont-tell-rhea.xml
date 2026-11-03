@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Don't Tell Rhea</title>
+    <link>https://eymoriyama.github.io/lou-demo-shows/</link>
+    <atom:link href="https://eymoriyama.github.io/lou-demo-shows/feeds/dont-tell-rhea.xml?token=fictional-demo-show" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>Listeners send in the secrets they're keeping from their friends. Nora and Pete decide what happens next. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+    <itunes:author>Nora &amp; Pete</itunes:author>
+    <itunes:summary>Listeners send in the secrets they're keeping from their friends. Nora and Pete decide what happens next. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</itunes:summary>
+    <itunes:image href="https://eymoriyama.github.io/lou-demo-shows/covers/dont-tell-rhea.jpg"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>The Wedding Speech Nobody Approved</title>
+      <description>A maid of honor goes off script. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/dont-tell-rhea/the-wedding-speech-nobody-approved</guid>
+      <pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/dont-tell-rhea/the-wedding-speech-nobody-approved.mp3" length="11760448" type="audio/mpeg"/>
+      <itunes:duration>2940</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>He Doesn't Know About the Second Phone</title>
+      <description>A secret, a drawer, and a very loud ringtone. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/dont-tell-rhea/he-doesnt-know-about-the-second-phone</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/dont-tell-rhea/he-doesnt-know-about-the-second-phone.mp3" length="11040513" type="audio/mpeg"/>
+      <itunes:duration>2760</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Group Trip Budget</title>
+      <description>Someone booked the expensive cabin. Nobody voted. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/dont-tell-rhea/the-group-trip-budget</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/dont-tell-rhea/the-group-trip-budget.mp3" length="12720500" type="audio/mpeg"/>
+      <itunes:duration>3180</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Paid in Full Show</title>
+    <link>https://eymoriyama.github.io/lou-demo-shows/</link>
+    <atom:link href="https://eymoriyama.github.io/lou-demo-shows/feeds/paid-in-full.xml?token=fictional-demo-show" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>Real money questions from real callers. Get out of debt, build a cushion, stop feeling broke. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+    <itunes:author>Ray Dalton</itunes:author>
+    <itunes:summary>Real money questions from real callers. Get out of debt, build a cushion, stop feeling broke. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</itunes:summary>
+    <itunes:image href="https://eymoriyama.github.io/lou-demo-shows/covers/paid-in-full.jpg"/>
+    <itunes:category text="Business"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>I Make $90K and Live Paycheck to Paycheck</title>
+      <description>A caller who earns well and still can't save. Where is it going? This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/paid-in-full/i-make-90k-and-live-paycheck-to-paycheck</guid>
+      <pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/paid-in-full/i-make-90k-and-live-paycheck-to-paycheck.mp3" length="12960513" type="audio/mpeg"/>
+      <itunes:duration>3240</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Should I Pay Off My Car or Invest?</title>
+      <description>The age-old question, answered with a spreadsheet. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/paid-in-full/should-i-pay-off-my-car-or-invest</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/paid-in-full/should-i-pay-off-my-car-or-invest.mp3" length="11760448" type="audio/mpeg"/>
+      <itunes:duration>2940</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>We Bought a House We Can't Afford</title>
+      <description>A young couple, a big mortgage, and a plan to dig out. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/paid-in-full/we-bought-a-house-we-cant-afford</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/paid-in-full/we-bought-a-house-we-cant-afford.mp3" length="13680448" type="audio/mpeg"/>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

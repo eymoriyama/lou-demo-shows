@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Drew Hanley Show</title>
+    <link>https://eymoriyama.github.io/lou-demo-shows/</link>
+    <atom:link href="https://eymoriyama.github.io/lou-demo-shows/feeds/drew-hanley.xml?token=fictional-demo-show" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>Comedian Drew Hanley talks to funny people about the worst nights of their careers. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+    <itunes:author>Drew Hanley</itunes:author>
+    <itunes:summary>Comedian Drew Hanley talks to funny people about the worst nights of their careers. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</itunes:summary>
+    <itunes:image href="https://eymoriyama.github.io/lou-demo-shows/covers/drew-hanley.jpg"/>
+    <itunes:category text="Comedy"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>I Bombed in Front of My Dentist</title>
+      <description>Drew's worst gig, retold with receipts. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/drew-hanley/i-bombed-in-front-of-my-dentist</guid>
+      <pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/drew-hanley/i-bombed-in-front-of-my-dentist.mp3" length="13920461" type="audio/mpeg"/>
+      <itunes:duration>3480</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Open Mic Rules Nobody Tells You</title>
+      <description>Sign up early, tip the bartender, never follow the magician. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/drew-hanley/open-mic-rules-nobody-tells-you</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/drew-hanley/open-mic-rules-nobody-tells-you.mp3" length="12240474" type="audio/mpeg"/>
+      <itunes:duration>3060</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Road Stories from Ohio</title>
+      <description>Six cities, one rental car, zero sleep. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/drew-hanley/road-stories-from-ohio</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/drew-hanley/road-stories-from-ohio.mp3" length="13200526" type="audio/mpeg"/>
+      <itunes:duration>3300</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

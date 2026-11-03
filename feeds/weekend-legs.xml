@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weekend Legs</title>
+    <link>https://eymoriyama.github.io/lou-demo-shows/</link>
+    <atom:link href="https://eymoriyama.github.io/lou-demo-shows/feeds/weekend-legs.xml?token=fictional-demo-show" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>Two very average runners train for races they probably shouldn't have signed up for. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+    <itunes:author>Marco &amp; Kim</itunes:author>
+    <itunes:summary>Two very average runners train for races they probably shouldn't have signed up for. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</itunes:summary>
+    <itunes:image href="https://eymoriyama.github.io/lou-demo-shows/covers/weekend-legs.jpg"/>
+    <itunes:category text="Health &amp; Fitness"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Our First Half Marathon Recap</title>
+      <description>Mile ten was a dark place. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/weekend-legs/our-first-half-marathon-recap</guid>
+      <pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/weekend-legs/our-first-half-marathon-recap.mp3" length="12000461" type="audio/mpeg"/>
+      <itunes:duration>3000</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Do You Really Need New Shoes?</title>
+      <description>Probably. But let's talk about it. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/weekend-legs/do-you-really-need-new-shoes</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/weekend-legs/do-you-really-need-new-shoes.mp3" length="10080461" type="audio/mpeg"/>
+      <itunes:duration>2520</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Running in the Rain on Purpose</title>
+      <description>Kim insists it's fun. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/weekend-legs/running-in-the-rain-on-purpose</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/weekend-legs/running-in-the-rain-on-purpose.mp3" length="9360526" type="audio/mpeg"/>
+      <itunes:duration>2340</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

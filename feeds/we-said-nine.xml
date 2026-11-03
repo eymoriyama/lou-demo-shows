@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>We Said Nine</title>
+    <link>https://eymoriyama.github.io/lou-demo-shows/</link>
+    <atom:link href="https://eymoriyama.github.io/lou-demo-shows/feeds/we-said-nine.xml?token=fictional-demo-show" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>Two roommates who are always late talk about adulthood, plans, and the plans they cancel. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+    <itunes:author>Cal &amp; Jules</itunes:author>
+    <itunes:summary>Two roommates who are always late talk about adulthood, plans, and the plans they cancel. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</itunes:summary>
+    <itunes:image href="https://eymoriyama.github.io/lou-demo-shows/covers/we-said-nine.jpg"/>
+    <itunes:category text="Comedy"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>The Brunch That Became Dinner</title>
+      <description>We said nine. We meant two. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/we-said-nine/the-brunch-that-became-dinner</guid>
+      <pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/we-said-nine/the-brunch-that-became-dinner.mp3" length="10080461" type="audio/mpeg"/>
+      <itunes:duration>2520</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Is a Group Chat a Commitment?</title>
+      <description>Leaving it is a statement. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/we-said-nine/is-a-group-chat-a-commitment</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/we-said-nine/is-a-group-chat-a-commitment.mp3" length="9360526" type="audio/mpeg"/>
+      <itunes:duration>2340</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Our Apartment Has a Draft Problem</title>
+      <description>Cal bought a space heater. Jules bought three. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/we-said-nine/our-apartment-has-a-draft-problem</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/we-said-nine/our-apartment-has-a-draft-problem.mp3" length="10800500" type="audio/mpeg"/>
+      <itunes:duration>2700</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

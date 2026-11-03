@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proofing Drawer</title>
+    <link>https://eymoriyama.github.io/lou-demo-shows/</link>
+    <atom:link href="https://eymoriyama.github.io/lou-demo-shows/feeds/proofing-drawer.xml?token=fictional-demo-show" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>A home baker's weekly show about bread, mistakes, and the loaves that almost worked. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+    <itunes:author>Hannah Cole</itunes:author>
+    <itunes:summary>A home baker's weekly show about bread, mistakes, and the loaves that almost worked. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</itunes:summary>
+    <itunes:image href="https://eymoriyama.github.io/lou-demo-shows/covers/proofing-drawer.jpg"/>
+    <itunes:category text="Arts"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>My Starter Has a Name Now</title>
+      <description>It's Gerald. He's thriving. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/proofing-drawer/my-starter-has-a-name-now</guid>
+      <pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/proofing-drawer/my-starter-has-a-name-now.mp3" length="9120513" type="audio/mpeg"/>
+      <itunes:duration>2280</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Why Your Loaf Is Flat</title>
+      <description>Three fixes, from easy to annoying. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/proofing-drawer/why-your-loaf-is-flat</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/proofing-drawer/why-your-loaf-is-flat.mp3" length="10560487" type="audio/mpeg"/>
+      <itunes:duration>2640</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Baking at High Altitude</title>
+      <description>Everything you know is wrong up here. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/proofing-drawer/baking-at-high-altitude</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/proofing-drawer/baking-at-high-altitude.mp3" length="9840448" type="audio/mpeg"/>
+      <itunes:duration>2460</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

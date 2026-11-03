@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Dunmere Tape</title>
+    <link>https://eymoriyama.github.io/lou-demo-shows/</link>
+    <atom:link href="https://eymoriyama.github.io/lou-demo-shows/feeds/dunmere-tape.xml?token=fictional-demo-show" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>In 1991 a cassette was mailed to the Dunmere police station with no return address. This is what was on it. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+    <itunes:author>Dunmere Media</itunes:author>
+    <itunes:summary>In 1991 a cassette was mailed to the Dunmere police station with no return address. This is what was on it. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</itunes:summary>
+    <itunes:image href="https://eymoriyama.github.io/lou-demo-shows/covers/dunmere-tape.jpg"/>
+    <itunes:category text="True Crime"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Episode 3: Side B</title>
+      <description>The second side of the tape, and the voice nobody recognized.&lt;br&gt;&lt;br&gt;00:01:01 Back to Dunmere&lt;br&gt;00:02:20 The second side&lt;br&gt;00:05:59 The engineer&lt;br&gt;00:07:30 The clock&lt;br&gt;00:11:15 Walt listens&lt;br&gt;00:14:47 One last thing&lt;br&gt;&lt;br&gt;This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/dunmere-tape/episode-3-side-b</guid>
+      <pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/dunmere-tape/episode-3-side-b.mp3" length="4080448" type="audio/mpeg"/>
+      <itunes:duration>1020</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 2: The Postmark</title>
+      <description>Where the envelope really came from. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/dunmere-tape/episode-2-the-postmark</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/dunmere-tape/episode-2-the-postmark.mp3" length="10320474" type="audio/mpeg"/>
+      <itunes:duration>2580</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 1: The Package</title>
+      <description>A small town, a mailed cassette, and thirty years of silence. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/dunmere-tape/episode-1-the-package</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/dunmere-tape/episode-1-the-package.mp3" length="11760448" type="audio/mpeg"/>
+      <itunes:duration>2940</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

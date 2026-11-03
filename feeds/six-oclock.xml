@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Six O'Clock</title>
+    <link>https://eymoriyama.github.io/lou-demo-shows/</link>
+    <atom:link href="https://eymoriyama.github.io/lou-demo-shows/feeds/six-oclock.xml?token=fictional-demo-show" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>The day's biggest story, explained in twenty minutes. Every weekday at six. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+    <itunes:author>The Six O'Clock</itunes:author>
+    <itunes:summary>The day's biggest story, explained in twenty minutes. Every weekday at six. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</itunes:summary>
+    <itunes:image href="https://eymoriyama.github.io/lou-demo-shows/covers/six-oclock.jpg"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Why Your Grocery Bill Won't Come Down</title>
+      <description>Prices stopped rising. So why does checkout still hurt?&lt;br&gt;&lt;br&gt;00:00:54 The gap&lt;br&gt;00:06:20 Why prices stick&lt;br&gt;00:10:23 What comes next&lt;br&gt;00:13:25 Also in the news&lt;br&gt;&lt;br&gt;This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/six-oclock/why-your-grocery-bill-wont-come-down</guid>
+      <pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/six-oclock/why-your-grocery-bill-wont-come-down.mp3" length="3600526" type="audio/mpeg"/>
+      <itunes:duration>900</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Town That Voted to Dissolve Itself</title>
+      <description>A small city decides it no longer wants to exist. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/six-oclock/the-town-that-voted-to-dissolve-itself</guid>
+      <pubDate>Mon, 26 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/six-oclock/the-town-that-voted-to-dissolve-itself.mp3" length="5760435" type="audio/mpeg"/>
+      <itunes:duration>1440</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Inside the Battle Over Daylight Saving</title>
+      <description>Everyone hates changing the clocks. Nobody can agree on a fix. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/six-oclock/inside-the-battle-over-daylight-saving</guid>
+      <pubDate>Sun, 25 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/six-oclock/inside-the-battle-over-daylight-saving.mp3" length="5040500" type="audio/mpeg"/>
+      <itunes:duration>1260</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

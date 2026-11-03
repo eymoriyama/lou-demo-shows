@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mina Has Notes</title>
+    <link>https://eymoriyama.github.io/lou-demo-shows/</link>
+    <atom:link href="https://eymoriyama.github.io/lou-demo-shows/feeds/mina-has-notes.xml?token=fictional-demo-show" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>Mina watches what everyone's watching and tells you what actually worked. Recaps, rankings, and notes. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+    <itunes:author>Mina Park</itunes:author>
+    <itunes:summary>Mina watches what everyone's watching and tells you what actually worked. Recaps, rankings, and notes. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</itunes:summary>
+    <itunes:image href="https://eymoriyama.github.io/lou-demo-shows/covers/mina-has-notes.jpg"/>
+    <itunes:category text="TV &amp; Film"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>The Finale Everyone Is Arguing About</title>
+      <description>Was it rushed, or were we not paying attention?&lt;br&gt;&lt;br&gt;00:00:58 What worked&lt;br&gt;00:03:46 Swing number one&lt;br&gt;00:07:47 The flashback&lt;br&gt;00:11:19 Swing number two&lt;br&gt;00:13:04 Final grade&lt;br&gt;&lt;br&gt;This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/mina-has-notes/the-finale-everyone-is-arguing-about</guid>
+      <pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/mina-has-notes/the-finale-everyone-is-arguing-about.mp3" length="3600526" type="audio/mpeg"/>
+      <itunes:duration>900</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ranking Every Kitchen Show</title>
+      <description>From comfort watch to pure chaos. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/mina-has-notes/ranking-every-kitchen-show</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/mina-has-notes/ranking-every-kitchen-show.mp3" length="11520435" type="audio/mpeg"/>
+      <itunes:duration>2880</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Sequel That Was Better</title>
+      <description>It happens. Rarely. Here's why it worked. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/mina-has-notes/the-sequel-that-was-better</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/mina-has-notes/the-sequel-that-was-better.mp3" length="8880500" type="audio/mpeg"/>
+      <itunes:duration>2220</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

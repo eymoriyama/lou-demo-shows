@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dev Said What</title>
+    <link>https://eymoriyama.github.io/lou-demo-shows/</link>
+    <atom:link href="https://eymoriyama.github.io/lou-demo-shows/feeds/dev-said-what.xml?token=fictional-demo-show" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>Dev has a hot take every week. Lauren has to talk him down. Live from a diner booth. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+    <itunes:author>Dev &amp; Lauren</itunes:author>
+    <itunes:summary>Dev has a hot take every week. Lauren has to talk him down. Live from a diner booth. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</itunes:summary>
+    <itunes:image href="https://eymoriyama.github.io/lou-demo-shows/covers/dev-said-what.jpg"/>
+    <itunes:category text="Comedy"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Cereal Is a Soup</title>
+      <description>Dev has a chart. Lauren has had enough. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/dev-said-what/cereal-is-a-soup</guid>
+      <pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/dev-said-what/cereal-is-a-soup.mp3" length="10320474" type="audio/mpeg"/>
+      <itunes:duration>2580</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tipping at Self Checkout</title>
+      <description>Who is the tip for? Nobody knows. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/dev-said-what/tipping-at-self-checkout</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/dev-said-what/tipping-at-self-checkout.mp3" length="11280526" type="audio/mpeg"/>
+      <itunes:duration>2820</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Airports Are Fun, Actually</title>
+      <description>A take so bold it needed two episodes. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/dev-said-what/airports-are-fun-actually</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/dev-said-what/airports-are-fun-actually.mp3" length="9600435" type="audio/mpeg"/>
+      <itunes:duration>2400</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

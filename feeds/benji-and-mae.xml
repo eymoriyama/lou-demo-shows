@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benji &amp; Mae</title>
+    <link>https://eymoriyama.github.io/lou-demo-shows/</link>
+    <atom:link href="https://eymoriyama.github.io/lou-demo-shows/feeds/benji-and-mae.xml?token=fictional-demo-show" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>Two best friends since the third grade talk about everything and nothing. Weekly. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+    <itunes:author>Benji &amp; Mae</itunes:author>
+    <itunes:summary>Two best friends since the third grade talk about everything and nothing. Weekly. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</itunes:summary>
+    <itunes:image href="https://eymoriyama.github.io/lou-demo-shows/covers/benji-and-mae.jpg"/>
+    <itunes:category text="Comedy"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Benji Got a Smart Ring</title>
+      <description>It tracks his sleep. It has opinions about his sleep.&lt;br&gt;&lt;br&gt;00:01:04 The birthday gift&lt;br&gt;00:05:32 The score&lt;br&gt;00:06:59 Back to bed&lt;br&gt;00:10:39 Living with the ring&lt;br&gt;00:12:39 The verdict&lt;br&gt;&lt;br&gt;This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/benji-and-mae/benji-got-a-smart-ring</guid>
+      <pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/benji-and-mae/benji-got-a-smart-ring.mp3" length="3600526" type="audio/mpeg"/>
+      <itunes:duration>900</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mae's Landlord Saga, Part Two</title>
+      <description>The radiator, the voicemail, and the surprise visit. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/benji-and-mae/maes-landlord-saga-part-two</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/benji-and-mae/maes-landlord-saga-part-two.mp3" length="12480487" type="audio/mpeg"/>
+      <itunes:duration>3120</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>We Tried Silent Book Club</title>
+      <description>It was not silent. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/benji-and-mae/we-tried-silent-book-club</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/benji-and-mae/we-tried-silent-book-club.mp3" length="10560487" type="audio/mpeg"/>
+      <itunes:duration>2640</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

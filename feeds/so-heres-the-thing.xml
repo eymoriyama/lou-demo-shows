@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>So Here's the Thing</title>
+    <link>https://eymoriyama.github.io/lou-demo-shows/</link>
+    <atom:link href="https://eymoriyama.github.io/lou-demo-shows/feeds/so-heres-the-thing.xml?token=fictional-demo-show" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>One question, explained properly. Why things are the way they are, in under an hour. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+    <itunes:author>Lena Ortiz</itunes:author>
+    <itunes:summary>One question, explained properly. Why things are the way they are, in under an hour. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</itunes:summary>
+    <itunes:image href="https://eymoriyama.github.io/lou-demo-shows/covers/so-heres-the-thing.jpg"/>
+    <itunes:category text="Education"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Why Is Airplane Food So Bad?</title>
+      <description>Altitude, taste buds and the economics of a tray table. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/so-heres-the-thing/why-is-airplane-food-so-bad</guid>
+      <pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/so-heres-the-thing/why-is-airplane-food-so-bad.mp3" length="9840448" type="audio/mpeg"/>
+      <itunes:duration>2460</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>How Do Elevators Know Where to Go?</title>
+      <description>The surprisingly clever math behind the lobby button. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/so-heres-the-thing/how-do-elevators-know-where-to-go</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/so-heres-the-thing/how-do-elevators-know-where-to-go.mp3" length="9120513" type="audio/mpeg"/>
+      <itunes:duration>2280</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Why Do We Get Songs Stuck in Our Heads?</title>
+      <description>Earworms, explained by people who study them. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <guid isPermaLink="false">lou-demo-shows/so-heres-the-thing/why-do-we-get-songs-stuck-in-our-heads</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/so-heres-the-thing/why-do-we-get-songs-stuck-in-our-heads.mp3" length="10320474" type="audio/mpeg"/>
+      <itunes:duration>2580</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
