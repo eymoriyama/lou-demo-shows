@@ -15,20 +15,20 @@
     <itunes:block>Yes</itunes:block>
     <item>
       <title>The Nine Second Call</title>
-      <description>A night nurse vanishes on Route Nine. Five months later, her phone records turn up one call nobody can explain. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <description>A night nurse vanishes on Route Nine. Five months later, her phone records turn up one call nobody can explain.&lt;br&gt;&lt;br&gt;00:00:00 Route Nine&lt;br&gt;00:06:25 Dana Reese&lt;br&gt;00:11:48 Nine days of searching&lt;br&gt;00:24:07 The records room&lt;br&gt;&lt;br&gt;This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
       <guid isPermaLink="false">lou-demo-shows/dark-county/the-nine-second-call</guid>
       <pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate>
-      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/dark-county/the-nine-second-call.mp3" length="32129890" type="audio/mpeg"/>
-      <itunes:duration>2008</itunes:duration>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/dark-county/the-nine-second-call.mp3" length="29857446" type="audio/mpeg"/>
+      <itunes:duration>1866</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>The Last Ferry</title>
-      <description>Five cars leave the mainland on a winter night. On an island you can cross in eleven minutes, one of them is never seen again. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <description>Five cars leave the mainland on a winter night. On an island you can cross in eleven minutes, one of them is never seen again.&lt;br&gt;&lt;br&gt;00:00:00 The last crossing&lt;br&gt;00:07:33 Ruth Aldana&lt;br&gt;00:14:09 The clicker and the logbook&lt;br&gt;00:24:09 Lyle Brandt&lt;br&gt;&lt;br&gt;This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
       <guid isPermaLink="false">lou-demo-shows/dark-county/the-last-ferry</guid>
       <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
-      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/dark-county/the-last-ferry.mp3" length="30346870" type="audio/mpeg"/>
-      <itunes:duration>1897</itunes:duration>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/dark-county/the-last-ferry.mp3" length="29994530" type="audio/mpeg"/>
+      <itunes:duration>1875</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

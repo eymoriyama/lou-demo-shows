@@ -15,20 +15,20 @@
     <itunes:block>Yes</itunes:block>
     <item>
       <title>The Memo</title>
-      <description>A utility said its blackout came without warning. A memo dated three days earlier says otherwise, and it carries one signature. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <description>A utility said its blackout came without warning. A memo dated three days earlier says otherwise, and it carries one signature.&lt;br&gt;&lt;br&gt;00:00:00 The Carrow County blackout&lt;br&gt;00:06:24 What the utility knew&lt;br&gt;00:18:24 A new contract at the Port of Halvard&lt;br&gt;00:22:40 Brennan City delays school closures&lt;br&gt;00:26:53 A library book comes home&lt;br&gt;&lt;br&gt;This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
       <guid isPermaLink="false">lou-demo-shows/the-morning-brief/the-memo</guid>
       <pubDate>Fri, 30 Oct 2026 11:00:00 GMT</pubDate>
-      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/the-morning-brief/the-memo.mp3" length="33302243" type="audio/mpeg"/>
-      <itunes:duration>2081</itunes:duration>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/the-morning-brief/the-memo.mp3" length="32294544" type="audio/mpeg"/>
+      <itunes:duration>2018</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>The Audit</title>
-      <description>Brennan City called its lead problem isolated. An audit the council was told never finished puts a number on it. This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
+      <description>Brennan City called its lead problem isolated. An audit the council was told never finished puts a number on it.&lt;br&gt;&lt;br&gt;00:00:00 Eleven days of bottled water&lt;br&gt;00:05:16 The audit the council never saw&lt;br&gt;00:17:47 Money for the Sable River Bridge&lt;br&gt;00:22:05 Grocery prices ease&lt;br&gt;00:25:36 The Ostrander clock tower&lt;br&gt;&lt;br&gt;This is a fictional show with AI-generated voices and artwork, made to demonstrate Lou.</description>
       <guid isPermaLink="false">lou-demo-shows/the-morning-brief/the-audit</guid>
       <pubDate>Thu, 29 Oct 2026 11:00:00 GMT</pubDate>
-      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/the-morning-brief/the-audit.mp3" length="35118695" type="audio/mpeg"/>
-      <itunes:duration>2195</itunes:duration>
+      <enclosure url="https://eymoriyama.github.io/lou-demo-shows/audio/the-morning-brief/the-audit.mp3" length="31070760" type="audio/mpeg"/>
+      <itunes:duration>1942</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
